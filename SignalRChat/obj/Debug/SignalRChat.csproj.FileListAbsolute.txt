@@ -72,3 +72,40 @@ E:\chichar\SignalR2 mvc5\C#\SignalRChat\bin\Antlr3.Runtime.pdb
 E:\chichar\SignalR2 mvc5\C#\SignalRChat\obj\Debug\SignalRChat.csprojResolveAssemblyReference.cache
 E:\chichar\SignalR2 mvc5\C#\SignalRChat\obj\Debug\SignalRChat.dll
 E:\chichar\SignalR2 mvc5\C#\SignalRChat\obj\Debug\SignalRChat.pdb
+C:\Users\u201313295\Desktop\TP\chat-signalR\SignalRChat\bin\SignalRChat.dll.config
+C:\Users\u201313295\Desktop\TP\chat-signalR\SignalRChat\bin\SignalRChat.dll
+C:\Users\u201313295\Desktop\TP\chat-signalR\SignalRChat\bin\SignalRChat.pdb
+C:\Users\u201313295\Desktop\TP\chat-signalR\SignalRChat\bin\Antlr3.Runtime.dll
+C:\Users\u201313295\Desktop\TP\chat-signalR\SignalRChat\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\u201313295\Desktop\TP\chat-signalR\SignalRChat\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\u201313295\Desktop\TP\chat-signalR\SignalRChat\bin\Microsoft.Owin.dll
+C:\Users\u201313295\Desktop\TP\chat-signalR\SignalRChat\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\u201313295\Desktop\TP\chat-signalR\SignalRChat\bin\Microsoft.Owin.Security.dll
+C:\Users\u201313295\Desktop\TP\chat-signalR\SignalRChat\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\u201313295\Desktop\TP\chat-signalR\SignalRChat\bin\Newtonsoft.Json.dll
+C:\Users\u201313295\Desktop\TP\chat-signalR\SignalRChat\bin\Owin.dll
+C:\Users\u201313295\Desktop\TP\chat-signalR\SignalRChat\bin\System.Web.Helpers.dll
+C:\Users\u201313295\Desktop\TP\chat-signalR\SignalRChat\bin\System.Web.Mvc.dll
+C:\Users\u201313295\Desktop\TP\chat-signalR\SignalRChat\bin\System.Web.Optimization.dll
+C:\Users\u201313295\Desktop\TP\chat-signalR\SignalRChat\bin\System.Web.Razor.dll
+C:\Users\u201313295\Desktop\TP\chat-signalR\SignalRChat\bin\System.Web.WebPages.Deployment.dll
+C:\Users\u201313295\Desktop\TP\chat-signalR\SignalRChat\bin\System.Web.WebPages.dll
+C:\Users\u201313295\Desktop\TP\chat-signalR\SignalRChat\bin\System.Web.WebPages.Razor.dll
+C:\Users\u201313295\Desktop\TP\chat-signalR\SignalRChat\bin\WebGrease.dll
+C:\Users\u201313295\Desktop\TP\chat-signalR\SignalRChat\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\u201313295\Desktop\TP\chat-signalR\SignalRChat\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\u201313295\Desktop\TP\chat-signalR\SignalRChat\bin\Microsoft.Owin.xml
+C:\Users\u201313295\Desktop\TP\chat-signalR\SignalRChat\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\u201313295\Desktop\TP\chat-signalR\SignalRChat\bin\Microsoft.Owin.Security.xml
+C:\Users\u201313295\Desktop\TP\chat-signalR\SignalRChat\bin\System.Web.Helpers.xml
+C:\Users\u201313295\Desktop\TP\chat-signalR\SignalRChat\bin\System.Web.Mvc.xml
+C:\Users\u201313295\Desktop\TP\chat-signalR\SignalRChat\bin\System.Web.Optimization.xml
+C:\Users\u201313295\Desktop\TP\chat-signalR\SignalRChat\bin\System.Web.Razor.xml
+C:\Users\u201313295\Desktop\TP\chat-signalR\SignalRChat\bin\System.Web.WebPages.xml
+C:\Users\u201313295\Desktop\TP\chat-signalR\SignalRChat\bin\System.Web.WebPages.Deployment.xml
+C:\Users\u201313295\Desktop\TP\chat-signalR\SignalRChat\bin\System.Web.WebPages.Razor.xml
+C:\Users\u201313295\Desktop\TP\chat-signalR\SignalRChat\bin\Newtonsoft.Json.xml
+C:\Users\u201313295\Desktop\TP\chat-signalR\SignalRChat\bin\Antlr3.Runtime.pdb
+C:\Users\u201313295\Desktop\TP\chat-signalR\SignalRChat\obj\Debug\SignalRChat.csprojResolveAssemblyReference.cache
+C:\Users\u201313295\Desktop\TP\chat-signalR\SignalRChat\obj\Debug\SignalRChat.dll
+C:\Users\u201313295\Desktop\TP\chat-signalR\SignalRChat\obj\Debug\SignalRChat.pdb
